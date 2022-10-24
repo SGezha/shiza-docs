@@ -2,7 +2,7 @@
 layout: home
 
 hero:
-  name: Shiza-Project
+  name: Shiza-Docs
   tagline: Документация для новых шизоидов.
   image:
     src: /banner.jpg
